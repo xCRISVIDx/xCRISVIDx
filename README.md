@@ -11,11 +11,13 @@
 
 ## 🚀 Sobre mí
 
-Soy Ingeniero de Sistemas apasionado por el desarrollo web moderno, el diseño oscuro y las experiencias visuales impactantes.
+Soy estudiante de Ingeniería de Sistemas apasionado por el desarrollo web,
 
-Me enfoco en crear soluciones eficientes, interfaces atractivas y proyectos con identidad propia.
+el diseño moderno y la creación de experiencias digitales impactantes.
 
-- 🔥 Enfocado en Frontend
+Mi objetivo es convertirme en un profesional integral que combine conocimiento técnico con impacto social.
+
+- 🔥 Enfocado en Aprender
 - ⚡ Diseño moderno y dinámico
 - 🧠 Aprendizaje constante
 - 🎯 Orientado a resultados
@@ -26,7 +28,7 @@ Me enfoco en crear soluciones eficientes, interfaces atractivas y proyectos con 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
 
 </div>
 
@@ -36,23 +38,22 @@ Me enfoco en crear soluciones eficientes, interfaces atractivas y proyectos con 
 
 | Tecnología   | Nivel |
 |--------------|-------|
-| Java         | ██████████ 90% |
-| HTML         | █████████ 85% |
-| CSS          | ████████ 75% |
-| JavaScript   | ███████ 70% |
+| Java         | ████████ 60% |
+| HTML         | █████ 40% |
+| CSS          | ████ 25% |
+| JavaScript   | ██ 10% |
 
 ---
 
 ## 🧩 Proyectos Destacados
 
 ### 🔴 Portfolio Personal
-Diseño moderno con estética oscura y efectos dinámicos.
+
 
 ### 🔴 Proyecto Web 1
-Aplicación web responsiva con enfoque en experiencia de usuario.
+
 
 ### 🔴 Proyecto Web 2
-Landing page con animaciones y diseño minimalista.
 
 ---
 
@@ -78,6 +79,6 @@ Landing page con animaciones y diseño minimalista.
 
 <div align="center">
 
-### ⚡ "El diseño no es solo cómo se ve, sino cómo funciona."
+### ⚡ "Vida Solo hay una, Haz lo que te gusta"
 
 </div>
